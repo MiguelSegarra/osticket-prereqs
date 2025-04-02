@@ -11,45 +11,37 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
+<ul>
+    <li><strong>Microsoft Azure</strong> (Virtual Machines/Compute)</li>
+    <li><strong>Remote Desktop</strong> (RDP)</li>
+    <li><strong>Internet Information Services (IIS)</strong></li>
+</ul>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
+<h2>Operating Systems Used</h2>
+<ul>
+    <li><strong>Windows 10 (21H2)</strong></li>
+</ul>
 
 <h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+<p>Before installing osTicket, ensure you have the following:</p>
+<ol>
+    <li>Microsoft Azure Virtual Machine</li>
+    <li>Windows Server with IIS installed</li>
+    <li>MySQL Database</li>
+    <li>PHP Installation</li>
+    <li>osTicket Installation Files</li>
+</ol>
 
 <h2>Installation Steps</h2>
+<p>Follow these steps to install and configure osTicket:</p>
+<ol>
+    <li>Set up a Virtual Machine in Microsoft Azure.</li>
+    <li>Install and configure Internet Information Services (IIS).</li>
+    <li>Install PHP and necessary extensions.</li>
+    <li>Set up MySQL and create a database for osTicket.</li>
+    <li>Download and extract the osTicket files into the IIS directory.</li>
+    <li>Configure osTicket by modifying necessary settings.</li>
+    <li>Finalize the installation and verify functionality.</li>
+</ol>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<p>For detailed explanations, refer to the video tutorial linked above. Happy troubleshooting!</p>
